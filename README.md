@@ -10,4 +10,4 @@ The project have the getRandomUser API
 
 For the local enivironment you can test API with sending http get method to server 
 
-Ex: http://localhost:8080/v1/users/fool
+Ex: http://localhost:8080/v1/users/foobar
